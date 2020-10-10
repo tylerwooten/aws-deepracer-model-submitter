@@ -1,1 +1,2 @@
 # aws-deepracer-model-submitter
+This project is focused on creating a tool that automatically and recursively submits an AWS DeepRacer model to a given community race. The AWS DeepRacer competition is focused on using reinforcement learning and tweaking hyperparameters to train a digital RC car to race around a track as quickly as possible ( https://aws.amazon.com/deepracer/). Currently, our team is ranked first globally for all of JP Morgan and this tool will assist us in holding that first place seed going into the final races later in October 2020.  
